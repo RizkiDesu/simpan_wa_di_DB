@@ -23,5 +23,9 @@ npm install mysql2
 ```bash
 node main.js
 ```
+ATAU 
+```bash
+npm start
+```
 ## UNTUK DEPLOY KE VPS ATAU SERVER BISA MENGGUNKAN PM2 AGAR BISA AKTIF 24 JAM
 ### DOKUMENTASI PM2 ADA DI : https://pm2.keymetrics.io/
