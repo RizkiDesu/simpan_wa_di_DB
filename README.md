@@ -1,13 +1,13 @@
-# SIMPAN WA KE DATBASE 
-## 1 INTALL LIBRARY NYA MENGGUNAKAN NPM (BIASANYA AKAN MEMAKAN WAKTU LAMA TUNGGU AJA)
+# Simpan data ke data base
+## 1 intall library nya menggunakan npm (biasanya akan memakan waktu lama tunggu aja)
 ```bash
 npm install
 ```
-## 2 JIKA LANGKAH PERTAMA TIDAK BERHASIL MAKA INSTALL YARN DI PC KAMU KADANG KALAU PAKAI NPM KADANG GAK BISA
+## 2 jika langkah pertama tidak berhasil maka install yarn di pc kamu kadang kalau pakai npm kadang gak bisa
 ```bash
 npm install --global yarn
 ```
-### INTALL MANUAL LIBRARY NYA
+### intall manual library nya
 ```bash
 yarn add whatsapp-web.js
 ```
@@ -17,13 +17,13 @@ yarn add qrcode-terminal
 ```bash
 npm install mysql2
 ```
-## 3 LANGKAH JALANKAN PROGRAMNYA DENGAN MENGGUNAKAN PERINTAH
-### JANGAN LUPA JALANKAN XAMPP DAN BUAT TABEL DATABASE chatwa !!!
+## 3 langkah jalankan programnya dengan menggunakan perintah
+### Jangan lupa jalankan xampp dan buat tabel database chatwa !!!
 
 ```bash
 node main.js
 ```
-ATAU 
+Atau 
 ```bash
 npm start
 ```
